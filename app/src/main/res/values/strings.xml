@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Commerce</string>
+    <string name="sales_icon">Sales</string>
+    <string name="contacts_text">Contacts</string>
+    <string name="about_text">About Us</string>
+    <string name="main_scene_text">General</string>
+</resources>
