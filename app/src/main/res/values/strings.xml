@@ -4,5 +4,5 @@
     <string name="contacts_text">Contacts</string>
     <string name="about_text">About Us</string>
     <string name="main_scene_text">General</string>
-    <string name="logo_description">LOGO2</string>
+    <string name="logo_description">MAIN_LOGO</string>
 </resources>
